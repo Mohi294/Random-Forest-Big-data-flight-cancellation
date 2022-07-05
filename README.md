@@ -58,6 +58,16 @@ print(f"Test Error = {(1.0 - accuracy):g}")
 print(f"Accuracy = {accuracy:g}")
 ```
 
+# Requirement
+Python 3.7+ is required. The following packages are required:
+- [google-colab](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb#:~:text=Note%20that%20as%20of%20April%202020%2C%20Colab%20uses%20Python%203.6.)
+
+
+# Important links
+- Documentation: https://spark.apache.org/documentation.html/
+- Source code: https://github.com/Mohi294/flight-cancellation-classification/
+- Issue tracker: https://github.com/Mohi294/flight-cancellation-classification/issues/
+
 
 
 
